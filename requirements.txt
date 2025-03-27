@@ -1,0 +1,10 @@
+opencv-python
+easyocr
+numpy
+pillow
+torch
+torchvision
+face-recognition
+pymongo
+mediapipe
+pytesseract

@@ -1,0 +1,15 @@
+Chạy môi trường ảo 
+
+python -m venv venv
+.\venv\Scripts\activate
+
+pip install easyocr
+pip install opencv-python==4.5.4.60
+pip install opencv-contrib-python==4.5.4.60
+pip install pillow numpy
+
+upgrade nếu cần 
+python -m pip install --upgrade pip
+
+run 
+python plate_reader.py

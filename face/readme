@@ -1,0 +1,4 @@
+pip install opencv-python mediapipe face-recognition numpy pymongo
+Nếu dùng Windows, cần cài dlib trước khi cài face_recognition:pip install cmake dlib face-recognition qua cmd window
+pip install opencv-python
+pip install -r requirements.txt
