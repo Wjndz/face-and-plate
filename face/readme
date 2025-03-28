@@ -17,3 +17,6 @@ python -m pip install --upgrade pip
 
 run 
 python plate_reader.py
+file facedetection dùng để chạy detect face 
+file plate_reader dùng để chạy detect biển số xe
+file recognition_test dùng để checkout face và biển số dựa vào dữ liệ được lưu vào db
